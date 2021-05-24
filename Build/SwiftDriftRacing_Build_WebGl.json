@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SwiftDriftRacing",
+"productVersion": "0.1",
+"dataUrl": "SwiftDriftRacing_Build_WebGl.data.unityweb",
+"wasmCodeUrl": "SwiftDriftRacing_Build_WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "SwiftDriftRacing_Build_WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "SwiftDriftRacing_Build_WebGl.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
